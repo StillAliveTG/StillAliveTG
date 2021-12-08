@@ -17,7 +17,8 @@
 <a href="https://instagram.com/sharvinbasil"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/17624379/still-alive-tg?tab=profile"><img alt="Stack overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/></a>
 <a href="https://gitlab.com/sharvinbasil"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-</p>" 
+<a href="https://www.quora.com/profile/Sharvin-Basil"><img alt="quora" src="https://img.shields.io/badge/Quora-grey?style=for-the-badge&logo=quora"></a>
+</p>"
 
 
 <h3 align="left">Languages and Tools:</h3>
