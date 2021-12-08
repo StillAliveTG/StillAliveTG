@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/Dhalapathy_vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="paulwalker_tg" height="30" width="40" /></a>
-<a href="https://instagram.com/sharvinbasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saminsumesh_" height="30" width="40" /></a>
+<a href="https://t.me/Dhalapathy_vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Dhalapathy_vijay" height="30" width="40" /></a>
+<a href="https://instagram.com/sharvinbasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharvinbasil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
