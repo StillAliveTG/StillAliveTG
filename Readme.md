@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://t.me/Dhalapathy_vijay"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/sharvinbasil"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
