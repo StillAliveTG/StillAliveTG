@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm STILL ALIVE [#OFFLINE]</h1>
-<h3 align="center">A 10th Standard Student From India who love to Learn Codez</h3>
+<h3 align="center">A 10th Standard Student From India who love to Learn Coding</h3>
 
 - 🔭 I’m currently 15 Years Old
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/Dhalapathy_vijay"><img alt="Telegram" src="https://telegra.ph/file/cbcc6a09c3d72fdba3483.jpg"/></a>
+<a href="https://t.me/Dhalapathy_vijay"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
