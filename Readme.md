@@ -15,6 +15,7 @@
 <p align="center">
 <a href="https://t.me/Dhalapathy_vijay"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/sharvinbasil"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/17624379/still-alive-tg?tab=profile">img alt="Stack overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
