@@ -7,7 +7,7 @@
 
 - 💬 I am Studying im [ST. Johns the Baptists HSS, Nedumkunnam](https://www.google.com/search?q=st+john+the+baptist+hss+nedumkunnam&oq=st+john%27s+the+baptist+hs&aqs=chrome.1.69i57j0i22i30l4.11606j0j7&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8)
 
-- 📫 You can reach me via my [my accounts](#accounts-)
+- 📫 You can reach me via my [my accounts](Connect with me:)
 
 - ⚡ Fun fact **I am super lazy but is super fast too**
 
