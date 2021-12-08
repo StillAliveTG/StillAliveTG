@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/Dhalapathy_vijay"><img alt="Telegram" src="https://img.shields.io/badge/subinps-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Dhalapathy_vijay"><img alt="Telegram" src="https://telegra.ph/file/cbcc6a09c3d72fdba3483.jpg"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
