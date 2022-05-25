@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm STILL ALIVE [#OFFLINE]</h1>
-<h3 align="center">A 10th Standard Student From India who love to Learn Coding</h3>
+<h3 align="center">A 11th Standard Student From India who love to Learn Coding</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sTILLALIVETG&label=Profile%20views&color=0e75b6&style=flat" alt="stillaliveTG"/> </p>
 
-- ⏳️ I’m currently 15 Years Old
+- ⏳️ I’m currently 16 Years Old
 
-- 🌱 I’m currently learning **Python, Java, HTML, CSS,JS , C**
+- 🌱 I’m currently learning **Nothing🥲**
 
 - 💬 I am Studying in [ST. Johns the Baptists HSS, Nedumkunnam](https://www.google.com/search?q=st+john+the+baptist+hss+nedumkunnam&oq=st+john%27s+the+baptist+hs&aqs=chrome.1.69i57j0i22i30l4.11606j0j7&client=ms-android-oppo-rvo3&sourceid=chrome-mobile&ie=UTF-8)
 
